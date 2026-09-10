@@ -1,0 +1,11 @@
+pydantic>=2.0.0
+google-genai>=0.1.0
+google-cloud-storage>=2.14.0
+google-cloud-firestore>=2.14.0
+google-cloud-bigquery>=3.14.0
+fastapi>=0.100.0
+uvicorn>=0.23.0
+python-dotenv>=1.0.0
+google-cloud-aiplatform>=1.38.0
+vertexai>=0.1.0
+firebase-admin>=6.0.0
